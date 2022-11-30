@@ -156,3 +156,9 @@ header, nav {
   background: rgb(255,0,0);
   background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(252,126,0,1) 100%, rgba(194,172,45,0) 100%);
 }
+.tenting {
+  border-bottom: 1px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
